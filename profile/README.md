@@ -10,5 +10,5 @@
 
 ### Stay up-to-date  
 
-##### Join-us on Discord : [SOON]
-##### Join-us on Telegram : [SOON]
+##### Join-us on Discord : https://discord.gg/pJyKDYf3Cg
+##### Join-us on Telegram : https://t.me/KetchupOS
