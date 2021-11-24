@@ -1,8 +1,9 @@
 # KetchupOS
 
 ### Roadmap & Todo-List
+- [ ]  Make a mirror manager
 - [ ]  Donations links
-- [ ]  Website hosting (DTNUTM)
+- [x]  Website hosting (DTNUTM)
 - [x]  Create Docker image
 - [x]  Compatible BaseSystem **Nutyx**
 - [ ]  DocCenter
